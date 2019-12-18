@@ -1,0 +1,14 @@
+.sidebar ul li a{
+	padding: 10px;
+	display: block;
+}
+ul ul a{
+	font-size: 0.9em !important;
+	padding-left: 30px !important;
+	color: #fff;
+	font-weight: 600;
+}
+.wrapper .card > .card-header > ul.nav > li.nav-item > a.active{
+	background: #1ab394;
+	color: #fff;
+}

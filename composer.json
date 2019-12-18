@@ -1,0 +1,16 @@
+{
+	"description": "Sistema para los Instituos Públicos de Piura",
+	"name": "innovanorte/sisfa",
+	"type": "project",
+	"homepage": "https://innovanorte.pe/sisfa",
+	"license": "MIT",
+	"support": {
+		"source": "https://innovanorte.pe/soporte"
+	},
+	"require": {
+		"php": ">=5.3.7"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
